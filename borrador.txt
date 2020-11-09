@@ -1,0 +1,11 @@
+</section>
+    <h1>Descubre</h1>
+    <section class="section4">
+      <div class="div-1-section4">
+        <div class="sec-4-div-1"></div>
+        <div class="div-papi h-100">
+          <div class="sec-4-div-1-div"></div>
+          <br>
+        </div>
+      </div>
+    </section>
